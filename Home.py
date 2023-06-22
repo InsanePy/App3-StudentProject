@@ -2,7 +2,7 @@ import streamlit as st
 import pandas
 st.set_page_config(layout="wide")
 
-st.title("The Best Company")
+st.header("The Best Company")
 
 content = """Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
